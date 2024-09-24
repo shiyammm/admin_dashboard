@@ -1,5 +1,5 @@
 import React from 'react';
-import Cards from '@/app/ui/dashboard/cards';
+import Cards from '@/app/ui/dashboard/Cards';
 import Transactions from '@/app/ui/dashboard/Transactions';
 import Charts from '../ui/dashboard/Charts';
 import RightBar from '../ui/dashboard/RightBar';

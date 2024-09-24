@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import React from 'react';
-import Sidebar from '../ui/dashboard/sidebar';
-import Navbar from '../ui/dashboard/navbar';
+import Sidebar from '../ui/dashboard/Sidebar';
+import Navbar from '../ui/dashboard/Navbar';
 import Footer from '../ui/dashboard/Footer';
 
 export const metadata: Metadata = {

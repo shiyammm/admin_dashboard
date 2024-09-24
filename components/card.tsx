@@ -8,7 +8,7 @@ type cardProps = {
   value: string;
 };
 
-const card = ({ title, isProfit, profitValue, value }: cardProps) => {
+const Card = ({ title, isProfit, profitValue, value }: cardProps) => {
   return (
     <div className="flex items-start p-6 border w-full">
       <div>
@@ -35,4 +35,4 @@ const card = ({ title, isProfit, profitValue, value }: cardProps) => {
   );
 };
 
-export default card;
+export default Card;
